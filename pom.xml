@@ -70,9 +70,9 @@
 			    <version>2.0</version>
 			    <configuration>
 			        <deploymentType>cloudhub</deploymentType>
-			        <muleVersion>3.7.3</muleVersion>
+			        <muleVersion>${mule.version}</muleVersion>
 			        <username>dlancepwc</username>
-			        <password>Sehnder1!</password>
+			        <password>dummyPassword123</password>
 				 <workerType>Micro</workerType>
 			        <redeploy>true</redeploy>
 			        <environment>Production</environment>
